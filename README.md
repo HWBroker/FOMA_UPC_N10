@@ -11,3 +11,8 @@
    - 4 - Apartat (e)
    - 5 - Exercici proposat per fer
  - Sessions 2 a ? per fer 
+ 
+ ## Recorda guardar!
+ Avans d'enviar el codi (submit), has de donar al botó de guardar.
+ Si no ho fas, és com si no haguessis escrit res.
+ ![Recorda guardar!](/images/save.png)
