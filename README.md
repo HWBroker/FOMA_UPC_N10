@@ -10,7 +10,12 @@
    - 3 - Apartat (d)
    - 4 - Apartat (e)
    - 5 - Exercici proposat per fer
- - Sessions 2 a ? per fer 
+ - Sessió 2:
+   - 1 - Secant (a)
+   - 2 - Secant (b)
+   - 3 - Secant (c)
+   - 4 i 5 per fer
+ - Sessions ? a ? per fer 
  
  ## Recorda guardar!
  Avans d'enviar el codi (submit), has de donar al botó de guardar.
