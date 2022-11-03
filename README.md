@@ -7,5 +7,7 @@
  - Sessió 1:
    - 1 - Apartat (a)
    - 2 - Apartat (c)
-   - 3 a 5 per fer
- - Sessions ? a ? per fer 
+   - 3 - Apartat (d)
+   - 4 - Apartat (e)
+   - 5 - Exercici proposat per fer
+ - Sessions 2 a ? per fer 
