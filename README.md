@@ -14,7 +14,8 @@
    - 1 - Secant (a)
    - 2 - Secant (b)
    - 3 - Secant (c)
-   - 4 i 5 per fer
+   - 4 - Newton (a)
+   - 5 - Newton (b)
  - Sessions ? a ? per fer 
  
  ## Recorda guardar!
