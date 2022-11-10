@@ -16,6 +16,11 @@
    - 3 - Secant (c)
    - 4 - Newton (a)
    - 5 - Newton (b)
+ - Sessió 3:
+   - 1 - Integració (a)
+   - 2 - Integració (b)
+   - 3 - Integració (c)
+   - 4 i 5 per fer
  - Sessions ? a ? per fer 
  
  ## Recorda guardar!
