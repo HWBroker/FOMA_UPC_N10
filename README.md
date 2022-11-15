@@ -20,7 +20,8 @@
    - 1 - Integració (a)
    - 2 - Integració (b)
    - 3 - Integració (c)
-   - 4 i 5 per fer
+   - 4 - Integració (d1)
+   - 5 - Integració (d2)
  - Sessions ? a ? per fer 
  
  ## Recorda guardar!
